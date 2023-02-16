@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1673617749 source:d:\codeblocks\projects\memoization_with_bst\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	"Matrix.h"
+	"BST.h"
+	"utils.hpp"
+
+1673215640 d:\codeblocks\projects\memoization_with_bst\matrix.h
+	<iostream>
+	<cstdlib>
+
+1673524365 d:\codeblocks\projects\memoization_with_bst\utils.hpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"Matrix.h"
+	"BST.h"
+	<math.h>
+
+1673215642 source:d:\codeblocks\projects\memoization_with_bst\matrix.cpp
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+
+1673515265 d:\codeblocks\projects\memoization_with_bst\bst_node.h
+	"Matrix.h"
+
+1673531494 source:d:\codeblocks\projects\memoization_with_bst\bst.cpp
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+	"BST.h"
+
+1673524206 d:\codeblocks\projects\memoization_with_bst\bst.h
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+	"BST_Node.h"
+

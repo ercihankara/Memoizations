@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1673553036 source:d:\codeblocks\projects\memoization_with_hashtable\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<vector>
+	"Matrix.h"
+	"HashTable.h"
+	"utils.hpp"
+
+1673444947 d:\codeblocks\projects\memoization_with_hashtable\matrix.h
+	<iostream>
+	<cstdlib>
+
+1673515671 d:\codeblocks\projects\memoization_with_hashtable\hashtable.h
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+	"HT_Item.h"
+
+1672927213 d:\codeblocks\projects\memoization_with_hashtable\ht_item.h
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+
+1673522038 source:d:\codeblocks\projects\memoization_with_hashtable\matrix.cpp
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+
+1673525434 source:d:\codeblocks\projects\memoization_with_hashtable\hashtable.cpp
+	<iostream>
+	<cstdlib>
+	"HashTable.h"
+	"Matrix.h"
+
+1673522770 d:\codeblocks\projects\memoization_with_hashtable\utils.hpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<math.h>
+	"Matrix.h"
+	"HashTable.h"
+
